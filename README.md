@@ -11,3 +11,8 @@ Welcome to my Netflix clone project! This is a static web page built using HTML 
 2.Open the index.html file in your web browser.  
 3.Explore the Netflix-like interface.  
 4.Use the email sign-up form to simulate creating or restarting a membership.  
+# Screenshots
+![Screenshot (195)](https://github.com/prathmesh8552/Netflix-Clone/assets/134964244/d70a6b1d-93cc-4bef-b183-655faccb3aab)  
+![Screenshot (196)](https://github.com/prathmesh8552/Netflix-Clone/assets/134964244/737b9a59-736e-4412-ae22-4016360a543c)   
+![Screenshot (199)](https://github.com/prathmesh8552/Netflix-Clone/assets/134964244/5bdfad65-2287-4eaf-abb2-5d8bb2608f22)   
+
